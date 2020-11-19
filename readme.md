@@ -5,18 +5,14 @@
 
 --- 
 **Code**
- - [Main Page XAML Code](https://github.com/iingles/iiFitnessApp/blob/project7B/IIFitnessApp/MainPage.xaml)
- - [Main Page C# Code](https://github.com/iingles/iiFitnessApp/blob/project7B/IIFitnessApp/MainPage.xaml.cs)
-
- - [Timer XAML Code](https://github.com/iingles/iiFitnessApp/blob/project7B/IIFitnessApp/MyTimerPage.xaml)
- - [Timer C# Code](https://github.com/iingles/iiFitnessApp/blob/project7B/IIFitnessApp/MyTimerPage.xaml.cs)
-
+ - [Main Page XAML Code](https://github.com/iingles/iiLottoGame/blob/master/iiLottoGame/MainPage.xaml)
+ - [Main Page C# Code](https://github.com/iingles/iiLottoGame/blob/master/iiLottoGame/MainPage.xaml.cs)
 
 **Screenshots**
- - [Timer Screen](https://github.com/iingles/iiFitnessApp/blob/project7B/timer-screen.jpg)
- - [Test 72](https://github.com/iingles/iiFitnessApp/blob/project7B/test-72.jpg)
- - [Test 72 and Laps](https://github.com/iingles/iiFitnessApp/blob/project7B/test-72-laps.jpg)
-
+ - [Main Screen](https://github.com/iingles/iiLottoGame/blob/master/Screenshot_20201119-102044.jpg)
+ - [Won alert](https://github.com/iingles/iiLottoGame/blob/master/Screenshot_20201119-102446.jpg)
+ - [Random Numbers](https://github.com/iingles/iiLottoGame/blob/master/Screenshot_20201119-102553.jpg)
+ - [Lost Alert](https://github.com/iingles/iiLottoGame/blob/master/Screenshot_20201119-103134.jpg)
 
 
  
